@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1678452835 source:c:\users\sch1561-it-30\desktop\chek\check.cpp
+	<iostream>
+	<vector>
+	"sortic.h"
+
+1678452396 c:\users\sch1561-it-30\desktop\chek\check_sortic.h
+	<iostream>
+	<vector>
+
+1678453411 source:c:\users\sch1561-it-30\desktop\chek\sortic.cpp
+	<iostream>
+	<vector>
+	"sortic.h"
+
+1678453411 c:\users\sch1561-it-30\desktop\chek\sortic.h
+	<iostream>
+	<vector>
+
+1678453669 source:c:\users\sch1561-it-30\desktop\chek\sortic2.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"sortic.h"
+
